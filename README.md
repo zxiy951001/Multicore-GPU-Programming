@@ -1,10 +1,10 @@
 # Multicore-GPU-Programming
 School Projects done in Opencl Framework
 
-#Summary 
+# Summary 
 
 
-#Assignment 1 
+# Assignment 1 
 
 
-#Assignment 2
+# Assignment 2
